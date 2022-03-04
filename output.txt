@@ -1,0 +1,10 @@
+******** BILL RECIEPT2 ******* 
+
+ Diner Name      parminder
+ Items Ordered   $4.00
+ Subtotal        $120.00
+ Delivery Fee    $3.00
+ Total Bill      $124.00
+
+********* THANK YOU ********** 
+
